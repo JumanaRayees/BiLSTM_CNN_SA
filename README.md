@@ -54,17 +54,4 @@ A confusion matrix is generated and visualized.
 Training and validation loss curves are plotted.
 
 
-# Key Data Science/Machine Learning Concepts:
 
-1- Text Preprocessing: Cleaning and preparing text data for analysis.
-2- Tokenization: Converting text into individual words or tokens.
-3- Vocabulary Building: Creating a dictionary of relevant words.
-4- Word Embeddings: Representing words as dense vectors.
-5- Recurrent Neural Networks (RNNs): Specifically, Bidirectional LSTMs for sequence data.
-6- Convolutional Neural Networks (CNNs): For feature extraction from text.
-7- Padding: Making sequences the same length for batch processing.
-8- Model Training: Using the fit method to update model parameters.
-9- Early Stopping: Preventing overfitting by stopping training early.
-10- Model Evaluation: Measuring the performance of a trained model.
-11- Confusion Matrix: Visualizing the model's prediction accuracy.
-12- Loss and Accuracy Curves: Monitoring model training performance over time.
